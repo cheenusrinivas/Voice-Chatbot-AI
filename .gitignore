@@ -1,0 +1,15 @@
+# Firebase credentials - NEVER push this!
+*.json
+chatbot-aea01-firebase-adminsdk-dxs1b-7b73b81582.json
+
+# Data files
+*.tsv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Mac
+.DS_Store
